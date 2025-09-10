@@ -1,0 +1,6 @@
+pytest
+jupyterlab
+scikit-learn
+xgboost
+matplotlib
+seaborn
